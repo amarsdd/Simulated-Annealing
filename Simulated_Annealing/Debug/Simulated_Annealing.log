@@ -1,0 +1,123 @@
+﻿Build started 4/30/2017 1:51:39 PM.
+     1>Project "C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Simulated_Annealing\Simulated_Annealing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Boost\include\boost-1_58" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Simulated_Annealing.cpp Source.cpp
+         Simulated_Annealing.cpp
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(57): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(58): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(100): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(142): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(143): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(36): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(42): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(73): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(105): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(140): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(141): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(142): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(170): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(171): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(175): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(201): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(225): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(240): warning C4101: 'temp' : unreferenced local variable
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(263): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(298): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(572): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(712): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(728): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(738): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(748): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(767): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(775): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(790): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(802): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(848): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(891): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(903): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(907): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(914): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(963): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(971): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(785): warning C4101: 'y2' : unreferenced local variable
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(785): warning C4101: 'x2' : unreferenced local variable
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(785): warning C4101: 'y1' : unreferenced local variable
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(785): warning C4101: 'x1' : unreferenced local variable
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(994): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1049): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1072): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1073): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1074): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1075): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1076): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1150): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1151): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1152): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1153): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1163): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1170): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1179): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1186): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1193): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1206): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1207): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1215): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1216): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1217): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1218): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1241): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.cpp(1247): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+         Compiling...
+         Source.cpp
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(57): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(58): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(100): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(142): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+     1>c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(143): warning C4099: 'node' : type name first seen using 'class' now seen using 'struct'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+                 c:\courses\spring 2017\cad\hw4\simulated_annealing\simulated_annealing\simulated_annealing.h(51) : see declaration of 'node'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Debug\Simulated_Annealing.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Boost\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Debug\Simulated_Annealing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Debug\Simulated_Annealing.lib" /MACHINE:X86 Debug\EasyBMP.obj
+         Debug\EasyBMP_Font.obj
+         Debug\EasyBMP_Geometry.obj
+         Debug\Simulated_Annealing.obj
+         Debug\Source.obj
+         Simulated_Annealing.vcxproj -> C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Debug\Simulated_Annealing.exe
+     1>Done Building Project "C:\Courses\Spring 2017\CAD\HW4\Simulated_Annealing\Simulated_Annealing\Simulated_Annealing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12
